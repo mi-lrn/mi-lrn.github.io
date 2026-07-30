@@ -8,4 +8,6 @@ order: 4
 
 - Email: contact@milrn.dev
 
+- https://www.linkedin.com/in/mihir-sahani/
+
 - *NOTE: All writeup difficulties listed on this site are in context of the CTF the problem was from.*
